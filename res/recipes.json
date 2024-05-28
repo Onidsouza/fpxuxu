@@ -1,0 +1,1640 @@
+[
+    {
+      "id": "Item_Cook_A_01",
+      "name": "Mushroom Skewer",
+      "recipeno": 1,
+      "recipe": "CookMushroom and CookMushroom",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_01",
+      "name": "Mushroom Skewer",
+      "recipeno": 1,
+      "recipe": "CookMushroom",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_01",
+      "name": "Mushroom Skewer",
+      "recipeno": 1,
+      "recipe": "CookMushroom",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_09",
+      "name": "Meat and Mushroom Skewer",
+      "recipeno": 2,
+      "recipe": "CookMushroom and CookMeat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_08",
+      "name": "Fish and Mushroom Skewer",
+      "recipeno": 3,
+      "recipe": "CookMushroom and CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_06",
+      "name": "Meat Skewer",
+      "recipeno": 4,
+      "recipe": "CookMeat and CookMeat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_06",
+      "name": "Meat Skewer",
+      "recipeno": 4,
+      "recipe": "CookMeat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_06",
+      "name": "Meat Skewer",
+      "recipeno": 4,
+      "recipe": "CookMeat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_05",
+      "name": "Fish Skewer",
+      "recipeno": 5,
+      "recipe": "CookFish and CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_05",
+      "name": "Fish Skewer",
+      "recipeno": 5,
+      "recipe": "CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_05",
+      "name": "Fish Skewer",
+      "recipeno": 5,
+      "recipe": "CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_23",
+      "name": "Seafood Skewer",
+      "recipeno": 6,
+      "recipe": "(Sneaky River Snail or Razorclaw Crab or Armored Crab or Bright-Eyed Crab) and CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_23",
+      "name": "Seafood Skewer",
+      "recipeno": 6,
+      "recipe": "(Sneaky River Snail or Razorclaw Crab or Armored Crab or Bright-Eyed Crab)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_23",
+      "name": "Seafood Skewer",
+      "recipeno": 6,
+      "recipe": "(Sneaky River Snail or Razorclaw Crab or Armored Crab or Bright-Eyed Crab)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_16",
+      "name": "Copious Meat Skewers",
+      "recipeno": 7,
+      "recipe": "CookMeat and CookMeat and CookMeat and CookMeat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_15",
+      "name": "Copious Seafood Skewers",
+      "recipeno": 8,
+      "recipe": "CookFish and CookFish and CookFish and CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_03",
+      "name": "Steamed Fruit",
+      "recipeno": 9,
+      "recipe": "CookPlant and CookFruit",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_03",
+      "name": "Steamed Tomatoes",
+      "recipeno": 10,
+      "recipe": "CookPlant and Hylian Tomato",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_02",
+      "name": "Steamed Mushrooms",
+      "recipeno": 11,
+      "recipe": "CookPlant and CookMushroom",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_05",
+      "name": "Steamed Meat",
+      "recipeno": 12,
+      "recipe": "CookMeat and CookPlant",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_04",
+      "name": "Steamed Fish",
+      "recipeno": 13,
+      "recipe": "CookPlant and CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_21",
+      "name": "Sautéed Peppers",
+      "recipeno": 14,
+      "recipe": "Spicy Pepper",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_22",
+      "name": "Sautéed Nuts",
+      "recipeno": 15,
+      "recipe": "Acorn and Chickaloo Tree Nut",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_22",
+      "name": "Sautéed Nuts",
+      "recipeno": 15,
+      "recipe": "Acorn and Chickaloo Tree Nut",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_01",
+      "name": "Fried Wild Greens",
+      "recipeno": 16,
+      "recipe": "CookPlant and CookPlant",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_01",
+      "name": "Fried Wild Greens",
+      "recipeno": 16,
+      "recipe": "CookPlant",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_01",
+      "name": "Fried Wild Greens",
+      "recipeno": 16,
+      "recipe": "CookPlant",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_01",
+      "name": "Fried Wild Greens",
+      "recipeno": 16,
+      "recipe": "Stambulb and Goat Butter and Dark Clump",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_11",
+      "name": "Copious Fried Wild Greens",
+      "recipeno": 17,
+      "recipe": "CookPlant and CookPlant and CookPlant and CookPlant",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_06",
+      "name": "Cooked Stambulb",
+      "recipeno": 18,
+      "recipe": "Stambulb",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_07",
+      "name": "Buttered Stambulb",
+      "recipeno": 19,
+      "recipe": "Stambulb and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_13",
+      "name": "Copious Mushroom Skewers",
+      "recipeno": 20,
+      "recipe": "CookMushroom and CookMushroom and CookMushroom and CookMushroom",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_P_03",
+      "name": "Spiced Meat Skewer",
+      "recipeno": 21,
+      "recipe": "Raw Meat and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_P_04",
+      "name": "Prime Spiced Meat Skewer",
+      "recipeno": 22,
+      "recipe": "Raw Prime Meat and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_P_05",
+      "name": "Gourmet Spiced Meat Skewer",
+      "recipeno": 23,
+      "recipe": "Raw Gourmet Meat and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_10",
+      "name": "Crab Stir-Fry",
+      "recipeno": 24,
+      "recipe": "(Razorclaw Crab or Ironshell Crab or Bright-Eyed Crab) and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_17",
+      "name": "Meat and Seafood Fry",
+      "recipeno": 25,
+      "recipe": "(Raw Meat or Raw Bird Drumstick) and CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_18",
+      "name": "Prime Meat and Seafood Fry",
+      "recipeno": 26,
+      "recipe": "(Raw Prime Meat or Raw Bird Thigh) and CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_19",
+      "name": "Gourmet Meat and Seafood Fry",
+      "recipeno": 27,
+      "recipe": "(Raw Gourmet Meat or Raw Whole Bird) and CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_02",
+      "name": "Salt-Grilled Greens",
+      "recipeno": 28,
+      "recipe": "CookPlant and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_01",
+      "name": "Salt-Grilled Mushrooms",
+      "recipeno": 29,
+      "recipe": "CookMushroom and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_04",
+      "name": "Salt-Grilled Meat",
+      "recipeno": 30,
+      "recipe": "(Raw Meat or Raw Bird Drumstick) and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_05",
+      "name": "Salt-Grilled Prime Meat",
+      "recipeno": 31,
+      "recipe": "(Raw Prime Meat or Raw Bird Thigh) and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_06",
+      "name": "Salt-Grilled Gourmet Meat",
+      "recipeno": 32,
+      "recipe": "(Raw Gourmet Meat or Raw Whole Meat) and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_03",
+      "name": "Salt-Grilled Fish",
+      "recipeno": 33,
+      "recipe": "CookFish and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_09",
+      "name": "Salt-Grilled Crab",
+      "recipeno": 34,
+      "recipe": "(Razorclaw Crab or Ironshell Crab or Bright-Eyed Crab) and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_P_02",
+      "name": "Herb Sauté",
+      "recipeno": 35,
+      "recipe": "CookPlant and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_P_01",
+      "name": "Fragrant Mushroom Sauté",
+      "recipeno": 36,
+      "recipe": "CookMushroom and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_07",
+      "name": "Pepper Steak",
+      "recipeno": 37,
+      "recipe": "CookMeat and Spicy Pepper",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_D_08",
+      "name": "Pepper Seafood",
+      "recipeno": 38,
+      "recipe": "CookFish and Spicy Pepper",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_05",
+      "name": "Fragrant Seafood Stew",
+      "recipeno": 39,
+      "recipe": "CookFish and Stambulb and Oil Jar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_06",
+      "name": "Deep-Fried Drumstick",
+      "recipeno": 40,
+      "recipe": "Raw Bird Drumstick and Oil Jar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_07",
+      "name": "Deep-Fried Thigh",
+      "recipeno": 41,
+      "recipe": "Raw Bird Thigh and Oil Jar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_08",
+      "name": "Deep-Fried Bird Roast",
+      "recipeno": 42,
+      "recipe": "Raw Whole Bird and Oil Jar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_H_01",
+      "name": "Seafood Meunière",
+      "recipeno": 43,
+      "recipe": "CookFish and Goat Butter and Tabantha Wheat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_H_02",
+      "name": "Porgy Meunière",
+      "recipeno": 44,
+      "recipe": "(Mighty Porgy or Armored Porgy) and Goat Butter and Tabantha Wheat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_H_03",
+      "name": "Salmon Meunière",
+      "recipeno": 45,
+      "recipe": "Hearty Salmon and Goat Butter and Tabantha Wheat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_07",
+      "name": "Fruit and Mushroom Mix",
+      "recipeno": 46,
+      "recipe": "CookMushroom and CookFruit",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_02",
+      "name": "Simmered Fruits",
+      "recipeno": 47,
+      "recipe": "CookFruit and CookFruit",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_02",
+      "name": "Simmered Fruits",
+      "recipeno": 47,
+      "recipe": "CookFruit",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_02",
+      "name": "Simmered Fruits",
+      "recipeno": 47,
+      "recipe": "CookFruit",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_12",
+      "name": "Copious Simmered Fruits",
+      "recipeno": 48,
+      "recipe": "CookFruit and CookFruit and CookFruit and CookFruit",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_01",
+      "name": "Simmered Tomato",
+      "recipeno": 49,
+      "recipe": "Hylian Tomato",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_02",
+      "name": "Fruity Tomato Stew",
+      "recipeno": 50,
+      "recipe": "Hylian Tomato and Fresh Milk and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_02",
+      "name": "Fruity Tomato Stew",
+      "recipeno": 50,
+      "recipe": "Hylian Tomato and Fresh Milk and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_04",
+      "name": "Tomato Mushroom Stew",
+      "recipeno": 51,
+      "recipe": "CookMushroom and Hylian Tomato",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_05",
+      "name": "Tomato Seafood Soup",
+      "recipeno": 52,
+      "recipe": "CookFish and Hylian Tomato",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_K_07",
+      "name": "Cream of Vegetable Soup",
+      "recipeno": 53,
+      "recipe": "CookPlant and Rock Salt and Fresh Milk",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_F_03",
+      "name": "Veggie Cream Soup",
+      "recipeno": 54,
+      "recipe": "(Fortified Pumpkin or Sun Pumpkin or Swift Carrot or Endura Carrot) and Rock Salt and Fresh Milk",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_K_06",
+      "name": "Cream of Mushroom Soup",
+      "recipeno": 55,
+      "recipe": "CookMushroom and CookPlant and Rock Salt and Fresh Milk",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_F_01",
+      "name": "Creamy Meat Soup",
+      "recipeno": 56,
+      "recipe": "CookMeat and CookPlant and Rock Salt and Fresh Milk",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_F_02",
+      "name": "Creamy Seefood Soup",
+      "recipeno": 57,
+      "recipe": "CookFish and CookPlant and Rock Salt and Fresh Milk",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_K_04",
+      "name": "Snail Chowder",
+      "recipeno": 58,
+      "recipe": "Sneaky River Snail and Tabantha Wheat and Fresh Milk and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_F_04",
+      "name": "Creamy Heart Soup",
+      "recipeno": 59,
+      "recipe": "(Hearty Radish or Big Hearty Radish) and Voltfruit and Hydromelon and Fresh Milk",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_14",
+      "name": "Glazed Veggies",
+      "recipeno": 60,
+      "recipe": "CookPlant and Courser Bee Honey",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_11",
+      "name": "Glazed Mushrooms",
+      "recipeno": 61,
+      "recipe": "CookMushroom and Courser Bee Honey",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_12",
+      "name": "Glazed Meat",
+      "recipeno": 62,
+      "recipe": "CookMeat and Courser Bee Honey",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_13",
+      "name": "Glazed Seefood",
+      "recipeno": 63,
+      "recipe": "CookFish and Courser Bee Honey",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_J_01",
+      "name": "Curry Rice",
+      "recipeno": 64,
+      "recipe": "Hylian Rice and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_J_02",
+      "name": "Vegetable Curry",
+      "recipeno": 65,
+      "recipe": "(Fortified Pumpkin or Sun Pumpkin or Swift Carrot or Endura Carrot) and Hylian Rice and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_J_06",
+      "name": "Meat Curry",
+      "recipeno": 66,
+      "recipe": "Raw Meat and Hylian Rice and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_J_07",
+      "name": "Prime Meat Curry",
+      "recipeno": 67,
+      "recipe": "Raw Prime Meat and Hylian Rice and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_J_09",
+      "name": "Gourmet Meat Curry",
+      "recipeno": 68,
+      "recipe": "Raw Gourmet Meat and Hylian Rice and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_J_04",
+      "name": "Poultry Curry",
+      "recipeno": 69,
+      "recipe": "Raw Bird Drumstick and Hylian Rice and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_J_05",
+      "name": "Prime Poultry Curry",
+      "recipeno": 70,
+      "recipe": "Raw Bird Thigh and Hylian Rice and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_J_08",
+      "name": "Gourmet Poultry Curry",
+      "recipeno": 71,
+      "recipe": "Raw Whole Bird and Hylian Rice and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_J_03",
+      "name": "Seafood Curry",
+      "recipeno": 72,
+      "recipe": "(Mighty Porgy or Armored Porgy) and Hylian Rice and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_01",
+      "name": "Cheesy Curry",
+      "recipeno": 73,
+      "recipe": "Hylian Rice and Hateno Cheese and Goron Spice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_K_08",
+      "name": "Carrot Stew",
+      "recipeno": 74,
+      "recipe": "(Swift Carrot or Endura Carrot) and Goat Butter and Fresh Milk and Tabantha Wheat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_K_03",
+      "name": "Pumpkin Stew",
+      "recipeno": 75,
+      "recipe": "(Fortified Pumpkin or Sun Pumpkin) and Tabantha Wheat and Fresh Milk and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_K_01",
+      "name": "Meat Stew",
+      "recipeno": 76,
+      "recipe": "(Raw Meat or Raw Bird Drumstick) and Tabantha Wheat and Fresh Milk and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_K_02",
+      "name": "Prime Meat Stew",
+      "recipeno": 77,
+      "recipe": "(Raw Prime Meat or Raw Bird Thigh) and Tabantha Wheat and Fresh Milk and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_K_05",
+      "name": "Gourmet Meat Stew",
+      "recipeno": 78,
+      "recipe": "(Raw Gourmet Meat or Raw Whole Bird) and Tabantha Wheat and Fresh Milk and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_B_20",
+      "name": "Meat-Stuffed Pumpkin",
+      "recipeno": 79,
+      "recipe": "(Fortified Pumpkin or Sun Pumpkin) and CookMeat",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_13",
+      "name": "Vegetable Risotto",
+      "recipeno": 80,
+      "recipe": "(Fortified Pumpkin or Sun Pumpkin or Swift Carrot or Endura Carrot) and Hylian Rice and Rock Salt and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_12",
+      "name": "Mushroom Risotto",
+      "recipeno": 81,
+      "recipe": "CookMushroom and Hylian Rice and Rock Salt and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_14",
+      "name": "Salmon Risotto",
+      "recipeno": 82,
+      "recipe": "Hearty Salmon and Hylian Rice and Rock Salt and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_17",
+      "name": "Crab Risotto",
+      "recipeno": 83,
+      "recipe": "(Razorclaw Crab or Ironshell Crab or Bright-Eyed Crab) and Hylian Rice and Rock Salt and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_10",
+      "name": "Cheesy Risotto",
+      "recipeno": 84,
+      "recipe": "(CookFish or CookMushroom or CookPlant) and Hateno Cheese and Hylian Rice and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_E_01",
+      "name": "Poultry Pilaf",
+      "recipeno": 85,
+      "recipe": "Raw Bird Drumstick and Bird Egg and Hylian Rice and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_E_02",
+      "name": "Prime Poultry Pilaf",
+      "recipeno": 86,
+      "recipe": "Raw Bird Thigh and Bird Egg and Hylian Rice and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_E_03",
+      "name": "Gourmet Poultry Pilaf",
+      "recipeno": 87,
+      "recipe": "Raw Whole Bird and Bird Egg and Hylian Rice and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_N_01",
+      "name": "Seafood Paella",
+      "recipeno": 88,
+      "recipe": "(Mighty Porgy or Armored Porgy) and (Razorclaw Crab or Ironshell Crab) and Hylian Rice and Goat Butter and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_11",
+      "name": "Curry Pilaf",
+      "recipeno": 89,
+      "recipe": "Goron Spice and Hylian Rice and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_E_04",
+      "name": "Fried Egg and Rice",
+      "recipeno": 90,
+      "recipe": "Hylian Rice and Bird Egg",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_08",
+      "name": "Crunchy Fried Rice",
+      "recipeno": 91,
+      "recipe": "CookMeat and Oil Jar and Hylian Rice and Bird Egg",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_10",
+      "name": "Seafood Fried Rice",
+      "recipeno": 92,
+      "recipe": "(Mighty Porgy or Armored Porgy) and Hylian Rice and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_16",
+      "name": "Crab Omelet with Rice",
+      "recipeno": 93,
+      "recipe": "(Razorclaw Crab or Ironshell Crab or Bright-Eyed Crab) and Bird Egg and Hylian Rice and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_05",
+      "name": "Meat and Rice Bowl",
+      "recipeno": 94,
+      "recipe": "Raw Meat and Hylian Rice and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_06",
+      "name": "Prime Meat and Rice Bowl",
+      "recipeno": 95,
+      "recipe": "Raw Prime Meat and Hylian Rice and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_09",
+      "name": "Gourmet Meat and Rice Bowl",
+      "recipeno": 96,
+      "recipe": "Raw Gourmet Meat and Hylian Rice and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_02",
+      "name": "Cheesy Meat Bowl",
+      "recipeno": 97,
+      "recipe": "Raw Meat and Hylian Rice and Hateno Cheese and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_03",
+      "name": "Prime Cheesy Meat Bowl",
+      "recipeno": 98,
+      "recipe": "Raw Prime Meat and Hylian Rice and Hateno Cheese and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_04",
+      "name": "Gourmet Cheesy Meat Bowl",
+      "recipeno": 99,
+      "recipe": "Raw Gourmet Meat and Hylian Rice and Hateno Cheese and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_03",
+      "name": "Veggie Rice Balls",
+      "recipeno": 100,
+      "recipe": "CookPlant and Hylian Rice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_04",
+      "name": "Mushroom Rice Balls",
+      "recipeno": 101,
+      "recipe": "CookMushroom and Hylian Rice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_15",
+      "name": "Meaty Rice Balls",
+      "recipeno": 102,
+      "recipe": "CookMeat and Hylian Rice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_G_02",
+      "name": "Seafood Rice Balls",
+      "recipeno": 103,
+      "recipe": "CookFish and Hylian Rice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_02",
+      "name": "Veggie Porridge",
+      "recipeno": 104,
+      "recipe": "CookPlant and Hylian Rice and Fresh Milk",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_M_01",
+      "name": "Wheat Bread",
+      "recipeno": 105,
+      "recipe": "Tabantha Wheat and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_09",
+      "name": "Melty Cheesy Bread",
+      "recipeno": 106,
+      "recipe": "Tabantha Wheat, Oil Jar and Hateno Cheese",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_04",
+      "name": "Hylian Tomato Pizza",
+      "recipeno": 107,
+      "recipe": "Hylian Tomato and Tabantha Wheat and Hateno Cheese",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_04",
+      "name": "Meat Pie",
+      "recipeno": 108,
+      "recipe": "CookMeat and Tabantha Wheat and Goat Butter and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_15",
+      "name": "Fish Pie",
+      "recipeno": 109,
+      "recipe": "CookFish and Tabantha Wheat and Goat Butter and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_10",
+      "name": "Cheesy Tomato",
+      "recipeno": 110,
+      "recipe": "Hylian Tomato and Hateno Cheese",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_10",
+      "name": "Cheesy Baked Fish",
+      "recipeno": 111,
+      "recipe": "CookFish, Hateno Cheese and Oil Jar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_10",
+      "name": "Omelet",
+      "recipeno": 112,
+      "recipe": "Bird Egg",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_A_10",
+      "name": "Omelet",
+      "recipeno": 112,
+      "recipe": "Bird Egg",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_N_03",
+      "name": "Vegetable Omelet",
+      "recipeno": 113,
+      "recipe": "CookPlant and Bird Egg and Goat Butter and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_N_04",
+      "name": "Mushroom Omelet",
+      "recipeno": 114,
+      "recipe": "CookMushroom and Bird Egg and Rock Salt and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_01",
+      "name": "Cheesy Omelette",
+      "recipeno": 115,
+      "recipe": "(CookMushroom or CookPlant) and Hateno Cheese and Bird Egg and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_07",
+      "name": "Hot Buttered Apple",
+      "recipeno": 116,
+      "recipe": "(Apple or Golden Apple) and Goat Butter",
+      "BonusHeart": 4,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_09",
+      "name": "Honeyed Fruits",
+      "recipeno": 117,
+      "recipe": "Cook Fruit and Courser Bee Honey",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_08",
+      "name": "Honeyed Apple",
+      "recipeno": 118,
+      "recipe": "(Apple or Golden Apple) and Courser Bee Honey",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_16",
+      "name": "Honey Candy",
+      "recipeno": 119,
+      "recipe": "Courser Bee Honey",
+      "BonusHeart": -8,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_13",
+      "name": "Fried Bananas",
+      "recipeno": 120,
+      "recipe": "Mighty Bananas and Tabantha Wheat and Cane Sugar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_14",
+      "name": "Egg Pudding",
+      "recipeno": 121,
+      "recipe": "Bird Egg, Fresh Milk, Cane Sugar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_10",
+      "name": "Plain Crepe",
+      "recipeno": 122,
+      "recipe": "Tabantha Wheat and Fresh Milk and Bird Egg and Cane Sugar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_11",
+      "name": "Wildberry Crepe",
+      "recipeno": 123,
+      "recipe": "Tabantha Wheat and Fresh Milk and Bird Egg and Cane Sugar and Wildberry",
+      "BonusHeart": 16,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_17",
+      "name": "Honey Crepe",
+      "recipeno": 124,
+      "recipe": "Tabantha Wheat and Fresh Milk and Bird Egg and Cane Sugar and Courser Bee Honey",
+      "BonusHeart": 4,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_12",
+      "name": "Nutcake",
+      "recipeno": 125,
+      "recipe": "Tabantha Wheat and Goat Butter and Cane Sugar and (Chickaloo Tree Nut or Acorn)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_N_02",
+      "name": "Fruitcake",
+      "recipeno": 126,
+      "recipe": "(Apple or Wildberry or Golden Apple) and (Apple or Wildberry or Voltfruit or Hydromelon or Palm Fruit or Mighty Bananas\nor Golden Apple) and Cane Sugar and Tabantha Wheat",
+      "BonusHeart": 4,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_05",
+      "name": "Carrot Cake",
+      "recipeno": 127,
+      "recipe": "(Swift Carrot or Endura Carrot) and Tabantha Wheat and Cane Sugar and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_06",
+      "name": "Pumpkin Pie",
+      "recipeno": 128,
+      "recipe": "(Fortified Pumpkin or Sun Pumpkin) and Tabantha Wheat and Cane Sugar and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_Q_09",
+      "name": "Cheesecake",
+      "recipeno": 129,
+      "recipe": "Hateno Cheese and Tabantha Wheat and Cane Sugar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_01",
+      "name": "Fruit Pie",
+      "recipeno": 130,
+      "recipe": "CookFruit and Tabantha Wheat and Goat Butter and Cane Sugar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_02",
+      "name": "Apple Pie",
+      "recipeno": 131,
+      "recipe": "(Apple or Golden Apple) and Tabantha Wheat and Goat Butter and Cane Sugar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_I_03",
+      "name": "Egg Tart",
+      "recipeno": 132,
+      "recipe": "Bird Egg, Tabantha Wheat, Goat Butter, Cane Sugar",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_K_09",
+      "name": "Milk",
+      "recipeno": 133,
+      "recipe": "Fresh Milk",
+      "BonusHeart": 2,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_R_03",
+      "name": "Noble Pursuit",
+      "recipeno": 134,
+      "recipe": "Palm Fruit and Hydromelon and Voltfruit and Rock Salt",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_L_01",
+      "name": "Monster Stew",
+      "recipeno": 135,
+      "recipe": "CookMeat and CookFish and Monster Extract",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_L_02",
+      "name": "Monster Soup",
+      "recipeno": 136,
+      "recipe": "Tabantha Wheat and Goat Butter and Fresh Milk and Monster Extract",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_L_05",
+      "name": "Monster Curry",
+      "recipeno": 137,
+      "recipe": "Hylian Rice and Goron Spice and Monster Extract",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_L_04",
+      "name": "Monster Rice Ball",
+      "recipeno": 138,
+      "recipe": "Hylian Rice and Rock Salt and Monster Extract",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_L_03",
+      "name": "Monster Cake",
+      "recipeno": 139,
+      "recipe": "Tabantha Wheat and Cane Sugar and Monster Extract and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_05",
+      "name": "Dark Stew",
+      "recipeno": 140,
+      "recipe": "Dark Clump and CookMeat and CookFish",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_07",
+      "name": "Dark Soup",
+      "recipeno": 141,
+      "recipe": "Dark Clump and Tabantha Wheat and Goat Butter and Fresh Milk",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_08",
+      "name": "Dark Curry",
+      "recipeno": 142,
+      "recipe": "Dark Clump and Goron Spice and Hylian Rice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_06",
+      "name": "Dark Rice Ball",
+      "recipeno": 143,
+      "recipe": "Dark Clump and Rock Salt and Hylian Rice",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_S_09",
+      "name": "Dark Cake",
+      "recipeno": 144,
+      "recipe": "Dark Clump and Cane Sugar and Tabantha Wheat and Goat Butter",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_O_01",
+      "name": "Dubious Food",
+      "recipeno": 145,
+      "recipe": "CookEnemy or CookInsect",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_O_01",
+      "name": "Dubious Food",
+      "recipeno": 145,
+      "recipe": "CookForeign",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_O_01",
+      "name": "Dubious Food",
+      "recipeno": 145,
+      "recipe": "CookGolem",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_O_02",
+      "name": "Rock-Hard Food",
+      "recipeno": 146,
+      "recipe": "CookOre",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_StaminaRecover",
+      "name": "Energizing Elixir",
+      "recipeno": 215,
+      "recipe": "CookEnemy and CookInsect (Energizing)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_AllSpeed",
+      "name": "Hasty Elixir",
+      "recipeno": 216,
+      "recipe": "CookEnemy and CookInsect (Hasty)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_ResistCold",
+      "name": "Spicy Elixir",
+      "recipeno": 217,
+      "recipe": "CookEnemy and CookInsect (Spicy)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_ResistHot",
+      "name": "Chilly Elixir",
+      "recipeno": 218,
+      "recipe": "CookEnemy and CookInsect (Chilly)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_ResistElectric",
+      "name": "Electro Elixir",
+      "recipeno": 219,
+      "recipe": "CookEnemy and CookInsect (Electro)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_ResistBurn",
+      "name": "Fireproof Elixir",
+      "recipeno": 220,
+      "recipe": "CookEnemy and CookInsect (Fireproof)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_AttackUp",
+      "name": "Mighty Elixir",
+      "recipeno": 221,
+      "recipe": "CookEnemy and CookInsect (Mighty)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_DefenseUp",
+      "name": "Tough Elixir",
+      "recipeno": 222,
+      "recipe": "CookEnemy and CookInsect (Tough)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_QuietnessUp",
+      "name": "Sneaky Elixir",
+      "recipeno": 223,
+      "recipe": "CookEnemy and CookInsect (Sneaky)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_NotSlippy",
+      "name": "Sticky Elixir",
+      "recipeno": 224,
+      "recipe": "CookEnemy and CookInsect (Sticky)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_LightEmission",
+      "name": "Bright Elixir",
+      "recipeno": 225,
+      "recipe": "CookEnemy and CookInsect (Bright)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_ExStaminaMaxUp",
+      "name": "Enduring Elixir",
+      "recipeno": 226,
+      "recipe": "CookEnemy and CookInsect (Enduring)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_17_LifeMaxUp",
+      "name": "Hearty Elixir",
+      "recipeno": 227,
+      "recipe": "CookEnemy and CookInsect (Hearty)",
+      "BonusHeart": 0,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_16",
+      "name": "Fairy Tonic",
+      "recipeno": 228,
+      "recipe": "Fairy and CookOre and CookInsect and CookEnemy",
+      "BonusHeart": -12,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_16",
+      "name": "Fairy Tonic",
+      "recipeno": 228,
+      "recipe": "Fairy and CookInsect and CookEnemy",
+      "BonusHeart": -12,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_16",
+      "name": "Fairy Tonic",
+      "recipeno": 228,
+      "recipe": "Fairy and (CookOre or CookEnemy or CookInsect)",
+      "BonusHeart": -12,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_16",
+      "name": "Fairy Tonic",
+      "recipeno": 228,
+      "recipe": "Fairy",
+      "BonusHeart": -12,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    },
+    {
+      "id": "Item_Cook_C_16",
+      "name": "Fairy Tonic",
+      "recipeno": 228,
+      "recipe": "Fairy and (CookGolem or CookForeign)",
+      "BonusHeart": -12,
+      "BonusLevel": 0,
+      "BonusTime": 0
+    }
+  ]

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recetas TotK</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <div id="header">
+    <h1>Tirso of the Kindom</h1>
+    <a href="https://botw-recipes.com/">Cheat codes</a>
+  </div>
+
+  <div id="app-container">
+    <div id="recipe-viewer">
+        <div id="selected-ingredients">
+            <div id="ib1" class="ingredient-box">
+            </div>
+            <div id="ib2" class="ingredient-box">
+            </div>
+            <div id="ib3" class="ingredient-box">
+            </div>
+            <div id="ib4" class="ingredient-box">
+            </div>
+            <div id="ib5" class="ingredient-box">
+            </div>
+        </div>
+    </div>
+
+    <div id="ingredient-list">
+    </div>
+
+    <div id="detalles">
+      <img id="close-detalles" src="./res/icons/x-icon.png" style="width:25px;height:25px;margin:10px 10px;">
+      <div id="foto-precio">
+        <img id="res-foto" src="./res/ingredients/Animal_Insect_A.png">
+        <div id="res-precio">
+            <div>
+              <img id="rupee-icon" src="./res/icons/rupee.png"> <span id="valor-precio">XXXXX</span>
+            </div>
+        </div>
+      </div>
+      <div id="detalles-tex">
+        <h1 id="material-name">
+          Name
+        </h1>
+        <hr>
+        <span style="width:100%;display:flex;align-items: center;">Health Points if eaten raw: <span id="hp-holder"></span></span>
+        <h2>Effects in a recipe:</h2>
+        <ul>
+          <li>item 1</li>
+          <li>item 2</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+
+</html>

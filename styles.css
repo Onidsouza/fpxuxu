@@ -1,0 +1,159 @@
+@font-face {
+    font-family: "Hylia";
+    src: url('./res/fonts/HyliaSerifBeta-Regular.otf') format('opentype');
+}
+
+#header {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+    font-family: Hylia;
+}
+
+#header h1 {
+    font-size: 40pt;
+    font-weight: normal;
+}
+
+#recipe-viewer {
+    width: 80%;
+    margin: 0px 10%;
+    padding: 25px 20px;
+    border: 1px solid rgba(169,157,11,0.95);
+    background-color: rgba(29,26,26,0.8);
+    border-radius: 5px;
+    box-shadow: 0 0 0 .3rem rgba(0,0,0,0.6);
+}
+
+#selected-ingredients {
+    display: flex;
+    margin: 0px 10%;
+    width: 80%;
+    justify-content: space-around;
+}
+
+.ingredient-box {
+    width: 100px;
+    aspect-ratio: 1/1;
+    border: 2px solid rgba(169,157,11,0.95);
+    border-radius: 10px;
+    display: flex;
+}
+
+.ingredient-box img {
+    width: 95%;
+    aspect-ratio: 1 /1;
+    margin: auto auto;
+}
+
+#ingredient-list {
+    width: 80%;
+    margin: 50px 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 40px 10px;
+}
+
+.list-box {
+    width: 15%;
+    height: 10%;
+}
+
+.list-img {
+    width: 80%;
+    margin: 10px 10%;
+    aspect-ratio: 1 /1;
+    background: rgba(29,26,26,0.8);
+    border: 2px solid rgba(169,157,11,0.95);
+    border-radius: 10px;
+    box-shadow: 0 0 0 .1rem rgba(0,0,0,0.6);
+}
+
+.list-img img {
+    width: 100%;
+    aspect-ratio: 1 /1;
+}
+
+.add-button {
+    width: 30%;
+    margin: 0px auto;
+    aspect-ratio: 1 / 1;
+    border: 2px solid rgba(169,157,11,0.95);
+    border-radius: 10px;
+    transition: background 0.5s;
+    display: flex;
+}
+
+.add-button:hover {
+    background: rgba(220, 210, 101, 0.95);
+    transition: background 0.5s;
+}
+
+.add-button img {
+    width: 60%;
+    margin: auto auto;
+    aspect-ratio: 1/1;
+}
+
+#detalles {
+    position: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: baseline;
+    width: 40%;
+    top: 0;
+    right: -50%;
+    height: 90%;
+    margin: 2% 0%;
+    background: rgba(29, 26, 26, 0.841);
+    border: 2px solid rgba(169,157,11,0.95);
+    border-right-style: none;
+    border-radius: 10px;
+    box-shadow: 0 0 0 .1rem rgba(0,0,0,0.6);
+    color: white;
+    font-family: sans-serif;
+    transition: right 2s;
+}
+
+#foto-precio {
+    width: 95%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-content: baseline;
+}
+
+#res-foto {
+    width: 30%;
+    aspect-ratio: 1/1;
+    margin-left: 20px;
+}
+
+#res-precio {
+    width: 65%;
+    padding: 5px 0px;
+    border-bottom: 1pt solid white;
+    height: fit-content;
+}
+
+#rupee-icon {
+    width: 25px;
+    height: 25px;
+}
+
+#detalles h1 {
+    font-family: Hylia;
+    font-weight: normal;
+}
+
+#detalles-tex {
+    margin: 0px 25px;
+    width: 90%;
+}
+
+.hearticon {
+    width: 20px;
+    height: 20px;
+    margin: 0px 2px;
+}
